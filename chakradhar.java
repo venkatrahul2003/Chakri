@@ -17,7 +17,7 @@ public class chakradhar {
         // ---------------------------------------
         // 2️⃣ VARIABLES & DATA TYPES
         // ---------------------------------------
-        int age = 20;           // Integer
+        int age = 19;           // Integer
         double price = 19.99;   // Decimal number
         char grade = 'A';       // Single character
         boolean isJavaFun = true; // True/False
